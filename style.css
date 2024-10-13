@@ -1,0 +1,31 @@
+h1.titulo                                                                {     
+    background-color: burlywood
+    ;
+        text-align: center;
+
+}
+
+div.links {
+    background-color: greenyellow
+    ;
+    text-align: center;
+
+}
+
+div.texto {
+    background-color: orange;
+}
+
+a {text-decoration: none;}
+
+div.final {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+p.sueño {
+    margin: 0;
+    background-color: yellow;
+    width: fit-content;
+    
+}
